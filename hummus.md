@@ -5,7 +5,6 @@
 * Sesame seed
 * Peanut butter
 * Lemon
-* Garlic
-
+* Garlic 
 
 ##Instructions
